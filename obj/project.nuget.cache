@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "MHatarpx0MU=",
+  "dgSpecHash": "DufrWWqSfcc=",
   "success": true,
   "projectFilePath": "/Users/ivankostuhin/develop/dotnet/FileInterface/FileInterface.csproj",
   "expectedPackageFiles": [
     "/Users/ivankostuhin/.nuget/packages/microsoft.data.sqlite/10.0.3/microsoft.data.sqlite.10.0.3.nupkg.sha512",
     "/Users/ivankostuhin/.nuget/packages/microsoft.data.sqlite.core/10.0.3/microsoft.data.sqlite.core.10.0.3.nupkg.sha512",
+    "/Users/ivankostuhin/.nuget/packages/serilog/4.3.1/serilog.4.3.1.nupkg.sha512",
+    "/Users/ivankostuhin/.nuget/packages/serilog.sinks.console/6.1.1/serilog.sinks.console.6.1.1.nupkg.sha512",
+    "/Users/ivankostuhin/.nuget/packages/serilog.sinks.file/7.0.0/serilog.sinks.file.7.0.0.nupkg.sha512",
     "/Users/ivankostuhin/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.11/sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
     "/Users/ivankostuhin/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
     "/Users/ivankostuhin/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",

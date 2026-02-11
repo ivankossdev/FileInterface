@@ -41,3 +41,7 @@
 /Users/ivankostuhin/develop/dotnet/FileInterface/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/ivankostuhin/develop/dotnet/FileInterface/obj/Debug/net8.0/FileInterface.csproj.AssemblyReference.cache
 /Users/ivankostuhin/develop/dotnet/FileInterface/obj/Debug/net8.0/FileInte.BB8370FE.Up2Date
+/Users/ivankostuhin/develop/dotnet/FileInterface/bin/Debug/net8.0/Serilog.dll
+/Users/ivankostuhin/develop/dotnet/FileInterface/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/ivankostuhin/develop/dotnet/FileInterface/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/ivankostuhin/develop/dotnet/FileInterface/obj/Debug/net8.0/FileInterface.sourcelink.json

@@ -1,0 +1,7 @@
+2026-02-11 23:25:17.176 +03:00 [INF] === Пример работы с интерфейсом записи данных ===
+
+2026-02-11 23:25:17.250 +03:00 [DBG] Деление 10 на 0
+2026-02-11 23:25:17.253 +03:00 [ERR] Произошла неожиданная ошибка
+System.DivideByZeroException: Attempted to divide by zero.
+   at FileInterface.Program.Divide(Int32 a, Int32 b) in /Users/ivankostuhin/develop/dotnet/FileInterface/Program.cs:line 80
+   at FileInterface.Program.Main(String[] args) in /Users/ivankostuhin/develop/dotnet/FileInterface/Program.cs:line 61
